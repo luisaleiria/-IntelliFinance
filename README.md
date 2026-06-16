@@ -118,7 +118,7 @@ IntelliFinance/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── assets/
+
 ```
 
 ---
